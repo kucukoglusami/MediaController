@@ -30,7 +30,7 @@ Windows için şeffaf, ekranın üstünde çalışan bir medya kontrol overlay'i
 
 **1. Depoyu klonla:**
 ```bash
-git clone https://github.com/KULLANICI_ADIN/media-overlay.git
+git clone https://github.com/kucukoglusami/MediaController.git
 cd media-overlay
 ```
 
